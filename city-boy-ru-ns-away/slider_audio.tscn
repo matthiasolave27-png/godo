@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://bdj7kdhkc6ey1"]
+
+[node name="slider_audio" type="Control" unique_id=793811508]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 848.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(2.0666838, 1.468202)
+
+[node name="HSlider" type="HSlider" parent="." unique_id=1503911885]
+layout_mode = 0
+offset_right = 85.16058
+offset_bottom = 16.0
+max_value = 1.0
+step = 0.1

@@ -1,0 +1,28 @@
+[gd_resource type="PackedScene" format=3 uid="uid://cea5ksj50d0vr"]
+
+[ext_resource type="Script" uid="uid://d3l61j2uu6mca" path="res://scripts/menu.gd" id="1_rtity"]
+[ext_resource type="Texture2D" uid="uid://c5d82nm7v6gs7" path="res://Images/WhatsApp Image 2026-02-28 at 12.21.41 PM.jpeg" id="2_1u76g"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yo8hf"]
+bg_color = Color(0, 0, 0, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_amo1o"]
+bg_color = Color(0, 0, 0, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_eax4x"]
+bg_color = Color(0, 0, 0, 1)
+
+[resource]
+_bundled = {
+"conn_count": 3,
+"conns": PackedInt32Array(4, 0, 30, 29, 2, 0, 0, 5, 0, 30, 31, 2, 0, 0, 6, 0, 30, 32, 2, 0, 0),
+"editable_instances": [],
+"id_paths": [],
+"names": PackedStringArray("options", "layout_mode", "anchors_preset", "anchor_right", "anchor_bottom", "grow_horizontal", "grow_vertical", "script", "Control", "ColorRect", "offset_left", "offset_top", "offset_right", "offset_bottom", "color", "TextureRect", "anchor_left", "anchor_top", "texture", "metadata/_edit_use_anchors_", "VBoxContainer", "theme_override_constants/separation", "VOLUMEN", "theme_override_font_sizes/font_size", "theme_override_styles/normal", "text", "Button", "RESOLUTION", "BACK", "_on_jugar_pressed", "pressed", "_on_opciones_pressed", "_on_s_alir_pressed"),
+"node_count": 7,
+"node_ids": PackedInt32Array(436646468, 1623481579, 1504100754, 1439325251, 694158178, 1278951535, 1021099156),
+"node_paths": [],
+"nodes": PackedInt32Array(-1, -1, 8, 0, -1, 7, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 3, 7, 4, 0, 0, 0, 9, 9, -1, 11, 1, 5, 2, 1, 3, 2, 4, 2, 10, 6, 11, 7, 12, 6, 13, 7, 5, 3, 6, 3, 14, 8, 0, 1, 0, 15, 15, -1, 14, 1, 5, 2, 9, 16, 10, 17, 11, 3, 2, 4, 2, 10, 12, 11, 13, 12, 12, 13, 13, 5, 3, 6, 3, 18, 14, 19, 15, 0, 1, 0, 20, 20, -1, 13, 1, 5, 2, 9, 16, 16, 17, 17, 3, 16, 4, 17, 10, 18, 11, 19, 12, 20, 13, 21, 5, 3, 6, 3, 21, 22, 0, 3, 0, 26, 22, -1, 4, 1, 3, 23, 23, 24, 24, 25, 25, 0, 3, 0, 26, 27, -1, 4, 1, 3, 23, 23, 24, 26, 25, 27, 0, 3, 0, 26, 28, -1, 4, 1, 3, 23, 23, 24, 28, 25, 29, 0),
+"variants": [3, 15, 1.0, 2, ExtResource("1_rtity"), 1, -30.0, -19.0, Color(0.4117647, 0.40392157, 0.16078432, 1), -1, -0.027777778, -0.024691358, 30.0, 19.0, ExtResource("2_1u76g"), true, 0.505, 0.54800004, -25.76001, -57.104034, 14.23999, -11.104034, 22, 50, SubResource("StyleBoxFlat_yo8hf"), "VOLUMEN", SubResource("StyleBoxFlat_amo1o"), "RESOLUCIÓN", SubResource("StyleBoxFlat_eax4x"), "ATRÁS"],
+"version": 3
+}
